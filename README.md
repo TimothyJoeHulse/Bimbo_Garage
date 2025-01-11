@@ -1,3 +1,3 @@
 # Bimbo_Garage
 
-It makes things easier for me so I do not have to carry anything extra like the keys to my house but, I can just do it thorugh my phone
+This program simplifies my daily life by eliminating the need to carry extra items, such as my house keys. Instead, I can conveniently manage everything directly through my phone, offering a seamless and hassle-free solution for everyday tasks.
